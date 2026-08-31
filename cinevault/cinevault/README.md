@@ -2,7 +2,7 @@
 
 A movie recommendation chat app, built as my capstone for FlyRank's AI Fluency program. You type what you're in the mood for, and it streams back real movie recommendations from Claude.
 
-**Live demo:** [add Vercel URL once deployed]
+**Live demo:** https://cinevault-smoky.vercel.app
 **Demo video:** [add link once recorded]
 
 ## Who it's for

@@ -3,7 +3,7 @@
 A movie recommendation chat app, built as my capstone for FlyRank's AI Fluency program. You type what you're in the mood for, and it streams back real movie recommendations from Claude.
 
 **Live demo:** https://cinevault-smoky.vercel.app
-**Demo video:**(https://cinevault-smoky.vercel.app)
+**Demo video:** [add link once recorded]
 
 ## Who it's for
 
@@ -97,9 +97,6 @@ See `EVAL_TEMPLATE.md` for the manual eval — 10-12 real queries tested against
 ## Built with AI
 
 I built this with Claude as a development partner — the API route, the streaming logic, the system prompt design, and the test setup were all built collaboratively with Claude in a single working session. What I checked myself: I ran the build, the typecheck, and the unit tests locally and confirmed all four tests pass before treating this as done, and I personally ran the manual eval queries in `EVAL_TEMPLATE.md` against the live app rather than trusting the code alone.
-
----
-Built by [Abanob Morcos](https://github.com/abanob24) for FlyRank's AI Fluency program. ran the manual eval queries in `EVAL_TEMPLATE.md` against the live app rather than trusting the code alone.
 
 ---
 Built by [Abanob Morcos](https://github.com/abanob24) for FlyRank's AI Fluency program.
